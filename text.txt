@@ -10,4 +10,4 @@ We always <span id="d"><3</span> to have your feedback!<br>
 Any questions? Want to join the team?<br>
 Feel free to hit us up via email at silitysecurity@protonmail.com.</p>
 
-<p>Cheers!</p>
+<p>Cheers and keep on hacking!</p>
