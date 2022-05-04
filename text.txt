@@ -4,9 +4,9 @@
 <p>Hi!</p>
 <p>We are sility security. Our mission is to make the internet a better and safer place for everyone.<br>
 We believe in the power of open-source software.<br>
-You can check out all of our projects on our <a href="https://github.com/silitysecurity"> GitHub Page</a>.<br>
+You can check out all of our projects on our <a href="https://github.com/silitysecurity" target="_blank"> GitHub Page</a>.<br>
 If you want to support our mission, feel fre to contribute to our projects.<br>
-We always <span id="b"><3</span> to have your feedback!<br>
+We always <span id="d"><3</span> to have your feedback!<br>
 Any questions? Want to join the team?<br>
 Feel free to hit us up via email at silitysecurity@protonmail.com.</p>
 
